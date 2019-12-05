@@ -1,0 +1,29 @@
+/*! Comentario 01 */
+#content {
+    background: black;
+    font-size: 14px;
+    
+    div h1 {
+      font-size: 30px;
+    }
+    a {
+      color: black;
+      &:hover {
+        color: blue;
+      }
+      &:visited {
+        color: purple;
+      }
+    }
+
+}
+
+#coluna {
+    padding: 0 20px 0 20px;
+    &-primeira {
+        padding: 0 20px 0 0;
+    }
+    &-ultima {
+        padding: 0 0 0 20px;
+    }
+}

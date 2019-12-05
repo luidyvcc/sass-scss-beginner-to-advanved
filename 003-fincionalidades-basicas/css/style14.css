@@ -1,0 +1,29 @@
+/*! Comentario 01 */
+#content {
+  background: black;
+  font-size: 14px;
+}
+#content div h1 {
+  font-size: 30px;
+}
+#content a {
+  color: black;
+}
+#content a:hover {
+  color: blue;
+}
+#content a:visited {
+  color: purple;
+}
+
+#coluna {
+  padding: 0 20px 0 20px;
+}
+#coluna-primeira {
+  padding: 0 20px 0 0;
+}
+#coluna-ultima {
+  padding: 0 0 0 20px;
+}
+
+/*# sourceMappingURL=style14.css.map */

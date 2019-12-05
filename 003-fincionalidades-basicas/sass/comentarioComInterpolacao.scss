@@ -1,0 +1,16 @@
+$versao: '1.0';
+$data: '28/11/1988';
+$class: sedebar;
+$red: #ff0000;
+$propriedade: border;
+
+/*!
+    Folha de estilo
+    Versao: #{ $versao }
+    Data: #{ $data }
+*/
+aside.#{ $class } {
+    width: 20%;
+    color: #{ $red }; // ou color: $red;
+    #{ $propriedade }-color: black;
+}

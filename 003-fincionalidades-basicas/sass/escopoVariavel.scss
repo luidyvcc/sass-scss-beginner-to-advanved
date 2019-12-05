@@ -1,0 +1,22 @@
+$cor: red;
+$width: 50px;
+#main {
+    $width: 500px !global; //seta variavel global
+    $cor: black; // seta variavel desse escopo
+    width: $width;
+    color: $cor;
+}
+#sidebar {
+    width: $width;
+    color: $cor;
+}
+
+$cor-texto: red;
+p {
+    $cor_texto: black;
+    color: $cor-texto;
+}
+h1 {
+    color: $cor-texto;
+}
+

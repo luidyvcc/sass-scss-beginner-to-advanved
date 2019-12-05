@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA;;;;EAIE;AACF,aAAkB;EACd,KAAK,EAAE,GAAG;EACV,KAAK,EAAE,OAAS;EAChB,YAAuB,EAAE,KAAK",
+"sources": ["../sass/comentarioComInterpolacao.scss"],
+"names": [],
+"file": "comentarioComInterpolacao.css"
+}

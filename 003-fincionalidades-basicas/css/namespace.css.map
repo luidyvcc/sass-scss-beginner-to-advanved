@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,GAAI;EAEI,YAAK,EAAE,KAAK;EACZ,YAAK,EAAE,KAAK;EACZ,YAAK,EAAE,GAAG;;;AAGlB,KAAM;EACF,IAAI,EAAE,mBAAmB;EAErB,UAAK,EAAE,MAAM;EACb,WAAM,EAAE,IAAI;EACZ,YAAO,EAAE,UAAU",
+"sources": ["../sass/namespace.scss"],
+"names": [],
+"file": "namespace.css"
+}

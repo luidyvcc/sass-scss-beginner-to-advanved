@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,KAAM;EAGF,KAAK,EAFG,KAAK;EAGb,KAAK,EAFC,KAAK;;;AAIf,QAAS;EACL,KAAK,EANG,KAAK;EAOb,KAAK,EAVH,GAAG;;;AAcT,CAAE;EAEE,KAAK,EADO,KAAK;;;AAGrB,EAAG;EACC,KAAK,EANG,GAAG",
+"sources": ["../sass/escopoVariavel.scss"],
+"names": [],
+"file": "escopoVariavel.css"
+}
