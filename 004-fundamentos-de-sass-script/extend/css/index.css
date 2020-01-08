@@ -1,0 +1,10 @@
+.erro, .atencao, .erro-grave {
+  color: red; }
+
+.atencao, .erro-grave {
+  background-color: #fdd; }
+
+.erro-grave {
+  border: 1px solid red; }
+
+/*# sourceMappingURL=index.css.map */

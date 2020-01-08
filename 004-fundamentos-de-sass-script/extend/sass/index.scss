@@ -1,0 +1,13 @@
+.erro {
+   color: red; 
+}
+
+.atencao {
+    @extend .erro;
+    background-color: #fdd;
+}
+
+.erro-grave {
+    @extend .atencao;
+    border: 1px solid red;
+}
