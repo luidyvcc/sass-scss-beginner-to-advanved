@@ -1,0 +1,13 @@
+$fundo: red;
+
+@if $fundo == blue {
+    body {
+        background-color: $fundo;
+        color: white;
+    }
+} @else if $fundo == red {
+    body {
+        background-color: $fundo;
+        color: white;
+    }
+}
