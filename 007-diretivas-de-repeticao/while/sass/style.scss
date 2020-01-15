@@ -1,0 +1,8 @@
+$cont: 1;
+
+@while $cont < 5{
+    div.item-#{$cont}{
+        background-color: #f23 * $cont;
+    }
+    $cont: $cont + 1;
+}
