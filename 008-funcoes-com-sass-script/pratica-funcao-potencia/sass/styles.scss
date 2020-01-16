@@ -1,0 +1,15 @@
+@function potencia($base, $expoente: 2, $und: px){
+    $cont: 1;
+    $res: $base;
+
+    @while $cont < $expoente{
+        $res: $res * $base;
+        $cont: $cont + 1;
+    }
+
+    @return $res + (#{$und});
+}
+
+h1 {
+    font-size: potencia(3, 5, '%');
+}

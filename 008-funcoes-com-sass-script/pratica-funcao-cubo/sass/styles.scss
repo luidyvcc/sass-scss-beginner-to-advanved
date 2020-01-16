@@ -1,0 +1,8 @@
+@function cubo($valor, $und: px){
+    $res: $valor * $valor * $valor;
+    @return unquote($res + $und);
+}
+
+h1 {
+    font-size: cubo(3, '%');
+}
